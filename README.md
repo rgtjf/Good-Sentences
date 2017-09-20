@@ -1,5 +1,8 @@
 # Good-Sentences
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
+
 ## Abstract
 
 - However, previous **endeavors to** (connect separate monolingual word embeddings) typicaly require (cross-lingual signals as supervision), either in the form of (parallel corpus or seed lexicon).
@@ -33,5 +36,3 @@
 ## 进行实验结果分析解释
 
 ## 结论总结
-
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
