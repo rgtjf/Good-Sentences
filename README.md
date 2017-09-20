@@ -16,7 +16,7 @@
 
 - **This is unfortunate for low-resource languages and domains, because data encoding cross-lingual equivalence is often expensive to obtain.**
 
-- The generator aims to make the transformed embeddings not only indistinguishable by the discriminator, but also recoverable as measured by the reconstruction loss $$ \mathcal{L}_{r} $$.
+- The generator aims to make the transformed embeddings not only indistinguishable by the discriminator, but also recoverable as measured by the reconstruction loss $ \mathcal{L}_{R} $.
 
 ## Related Work
 
