@@ -18,7 +18,7 @@
 
 - The generator aims to make the transformed embeddings not only indistinguishable by the discriminator, but also recoverable as measured by the reconstruction loss \\( \mathcal{L}_{r} \\)
 
-- ~~abcd dsf
+- ~~abcd dsf~~
 
 - [ ] a
 - [x] b
