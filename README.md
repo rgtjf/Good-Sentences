@@ -2,6 +2,10 @@
 
 ## Abstract
 
+However, previous endeavors to (connect separate monolingual word embeddings) typicaly require (cross-lingual signals as supervision), either in the form of (parallel corpus or seed lexicon).
+
+e.g., 
+
 ## Introduction
 
 ## Related Work
