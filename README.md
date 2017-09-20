@@ -2,11 +2,17 @@
 
 ## Abstract
 
-However, previous endeavors to (connect separate monolingual word embeddings) typicaly require (cross-lingual signals as supervision), either in the form of (parallel corpus or seed lexicon).
-
-e.g., 
+- However, previous **endeavors to** (connect separate monolingual word embeddings) typicaly require (cross-lingual signals as supervision), either in the form of (parallel corpus or seed lexicon).
+  e.g., 
+ 
+- We **carry out evaluation on** the (unsupervised bilingual lexicon induction) task. Even though this task appears intrinsically (cross-lingual), we are able to demonstrate encouraging performance without any (cross-lingual) clues.
+  e.g., 
 
 ## Introduction
+
+- Soon following the success on (monolingual tasks), the potential of (word embeddings for cross-lingual natural language processing) has **attracted much attention**. In their pioneering work, (). 
+
+- The interesting findings is **in line with** research on human cognition (Youn et al., 2016).
 
 ## Related Work
 
