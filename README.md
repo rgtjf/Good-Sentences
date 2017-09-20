@@ -16,12 +16,7 @@
 
 - **This is unfortunate for low-resource languages and domains, because data encoding cross-lingual equivalence is often expensive to obtain.**
 
-- The generator aims to make the transformed embeddings not only indistinguishable by the discriminator, but also recoverable as measured by the reconstruction loss \\( \mathcal{L}_{r} \\)
-
-- ~~abcd dsf~~
-
-- [ ] a
-- [x] b
+- The generator aims to make the transformed embeddings not only indistinguishable by the discriminator, but also recoverable as measured by the reconstruction loss \\( \mathcal{L}_{r} \\).
 
 ## Related Work
 
@@ -38,3 +33,5 @@
 ## 进行实验结果分析解释
 
 ## 结论总结
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
