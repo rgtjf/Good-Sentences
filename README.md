@@ -20,11 +20,17 @@
 
 ## Related Work
 
+- **In contrast, our work completely removes the need for** cross-lingual signals **to** connect monolingual word embeddings, trained on non-parallel text corpora.
+
 ## Model Description
 
 ## Experiments Analysis
 
+- Generative adversarial networks are **notoriously difficult** to train, and investigation into stabler training **remains a research frontier** (Radford et al., 2015; Salimans et al., 2016; Ar..).
+
 ## Conclusion
+
+- **In this work, we demonstrate** the feasibility of connecting word embeddings of different languages without any cross=lingual signal. **This is achived by** matching the distributions of the transformed source language embeddings and target ones via adversarial training. **The success of our approach signifies** the existence of universal lexical semantic structure across languages. **Our work also open up opportunities for** the processing of extrmely low-resource languages and domains that lack parallel data completely.
 
 ## 引出本论文工作
 
