@@ -12,6 +12,8 @@
 
 - Soon following the success on (monolingual tasks), the potential of (word embeddings for cross-lingual natural language processing) has **attracted much attention**. In their pioneering work, (). 
 
+- This has **far-reaching implication** on low-resource scenarios (Daume et al., 2011).
+
 - The interesting findings is **in line with** research on human cognition (Youn et al., 2016).
 
 - **This is unfortunate for low-resource languages and domains, because data encoding cross-lingual equivalence is often expensive to obtain.**
