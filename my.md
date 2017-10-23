@@ -38,3 +38,10 @@ On the other hand, ...
 - lead to deteriorate overall performance.
 
 -  conveniently obtain/acquire 
+
+- we train two neural networks jointly, one for the low-resource language STS ({\it i.e.}, the main task), and the other for the resource-rich language STS ({\it i.e.}, the auxiliary task).
+
+
+
+
+
