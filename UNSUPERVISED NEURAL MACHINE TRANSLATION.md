@@ -30,4 +30,36 @@
 
 - 注意：Note that, even if ..., we ...
 
+- 目的：For that purpose, [We alter the word order of the input sequence by making random swaps between continuous words]
 
+- 进一步解释：At the same time, by doing ..., we can better account for ...
+
+- 缺点：without considering sth
+
+
+## Expriments
+
+## results
+
+- We **thus conclude that** both denoising and backtranslation **play an essential role** during training: denoising **forces** the system to capture broad word-level equivalences, while backtranslation **encourages it** to learn more subtle relations in an increasingly natural setting.
+
+- As for the role of [subword translation], we observe that BPE is slightly beneficial
+
+- 不一致：Having a closer look, however, we observe that, while ..., it also introduces some errors. In particular, 
+
+- For instance / For example
+
+- 局限性：[sth] may also be a factor limiting its potential performance.
+
+### QUALITATIVE ANALYSIS 
+- 起：In order to better understand the behavior of the proposed system, we manually analyzed some translations for French->English, and present some illustrative examples in Table 2.
+
+- 好的：Our analysis shows that the proposed system is able to roduce high-quality translations, adequately modeling non-trivial translation relations. For instance,
+
+- 缺点：Nevertheless, our analysis also points that the proposed system has limitations and, perhaps not surprisingly, its translation quality often lags behind that of a standard  upervised NMT system. In particular, ...
+
+- Finally, there are also some cases where there are both fluency and adequacy problems that severely hinders understanding the original message from the proposed translation. For instance,...
+
+
+## Conclusions
+This Work -> Expriments -> Future work
