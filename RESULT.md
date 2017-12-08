@@ -33,3 +33,10 @@
 
 > INFERENCE: That is, [A] is able to do ... and [B] takes the ... into consideration, which is crucial to ... 
 
+## Wang,Jin'gang
+
+- Case 1: A 比 B 差
+
+> [A] cannot beat [B]. 
+
+> 
