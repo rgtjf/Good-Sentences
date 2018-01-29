@@ -1,5 +1,7 @@
 # Good-Sentences
 
+http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/?from=timeline&isappinstalled=0
+
 ## Abstract
 
 - However, previous **endeavors to** (connect separate monolingual word embeddings) typicaly require (cross-lingual signals as supervision), either in the form of (parallel corpus or seed lexicon).
